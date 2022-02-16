@@ -1,5 +1,4 @@
 # the-bunker-2.0
-new bunker shit
 scuffed as fuck dotfiles 
 # Packages
 yay -S polybar nerd-fonts-sf-mono i3-gaps alacritty autotiling-git picom nitrogen lxsession pipewire-pulse alsa-utils pipewire base-devel rofi lxappearance noto-fonts ttf-nerd-fonts-symbols
