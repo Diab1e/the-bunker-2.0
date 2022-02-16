@@ -1,2 +1,3 @@
 # the-bunker-2.0
-new bunker shit 
+new bunker shit
+scuffed as fuck dotfiles 
