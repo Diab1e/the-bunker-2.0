@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/gamer/Pictures/2022-02-07_20-12.png"
+let background = "#150f0f"
+let foreground = "#cfc4bf"
+let cursor     = "#cfc4bf"
+
+" Colors
+let color0  = "#150f0f"
+let color1  = "#76675D"
+let color2  = "#857D39"
+let color3  = "#8E7166"
+let color4  = "#97903B"
+let color5  = "#A18777"
+let color6  = "#847A85"
+let color7  = "#cfc4bf"
+let color8  = "#908985"
+let color9  = "#76675D"
+let color10 = "#857D39"
+let color11 = "#8E7166"
+let color12 = "#97903B"
+let color13 = "#A18777"
+let color14 = "#847A85"
+let color15 = "#cfc4bf"
