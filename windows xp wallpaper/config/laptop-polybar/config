@@ -4,7 +4,7 @@ background_alt=#181c14
 foreground=#cbdbf0
 foreground_alt=#cbdbf0
 highlight=#8ABB0C
-primary = #8ABB0C
+primary = #345588
 alert = #ddc758
 
 [settings]
