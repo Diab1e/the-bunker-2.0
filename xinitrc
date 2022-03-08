@@ -51,6 +51,9 @@ fi
 #/usr/bin/pipewire & #artix
 #/usr/bin/pipewire-pulse & #artix
 #/usr/bin/pipewire-media-session & #aritx
+source /etc/X11/xinit/xinitrc.d/50-systemd-user.sh &
+eval $(/usr/bin/gnome-keyring-daemon --start) &
+export SSH_AUTH_SOCK &
 systemctl --user restart pipewire pipewire-pulse &
 systemctl --user daemon-reload &
 xset s off &
