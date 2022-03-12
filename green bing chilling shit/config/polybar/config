@@ -1,10 +1,10 @@
 [colors]
-background=#aa181c14
-background_alt=#181c14
-foreground=#cbdbf0
-foreground_alt=#cbdbf0
-highlight=#8ABB0C
-primary = #8ABB0C
+background=#aa01050C
+background_alt=#060911
+foreground=#dee9cd
+foreground_alt=#c4cddb
+highlight=#
+primary = #B2DA6F
 alert = #ddc758
 
 [settings]
@@ -170,7 +170,7 @@ bar-volume-empty-foreground = ${colors.foreground-alt}
 
 [module/time]
 type = custom/script
-exec = date '+%m/%d/%Y %I:%M:%S %p'
+exec = date '+%m/%d/%Y %H:%M:%S'
 click-left = thunderbird &
 label = " %output%"
 interval = 1
@@ -191,7 +191,6 @@ low-at = 5
 ; $ ls -1 /sys/class/power_supply/
 battery = BAT0
 adapter = ADP1
-
 
 ; [module/wifi]
 ; type = custom/script
