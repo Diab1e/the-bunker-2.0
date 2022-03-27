@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/rei/pictures/wallpaper/2560x1440-987220-anime-manga-anime-girls-simple-background-minimalism.png"
+let background = "#3f2728"
+let foreground = "#efe7e6"
+let cursor     = "#efe7e6"
+
+" Colors
+let color0  = "#3f2728"
+let color1  = "#E8B7B6"
+let color2  = "#D8C4BA"
+let color3  = "#E6C2BD"
+let color4  = "#EABEC2"
+let color5  = "#DCD3CB"
+let color6  = "#E9CDCC"
+let color7  = "#efe7e6"
+let color8  = "#a7a1a1"
+let color9  = "#E8B7B6"
+let color10 = "#D8C4BA"
+let color11 = "#E6C2BD"
+let color12 = "#EABEC2"
+let color13 = "#DCD3CB"
+let color14 = "#E9CDCC"
+let color15 = "#efe7e6"
