@@ -190,7 +190,7 @@ exec_always --no-startup-id xsetroot -cursor_name left_ptr
 #nitrogen
 exec nitrogen --restore
 
-for_window [class=".*"] border pixel 3
+for_window [class=".*"] border pixel 0
 
 set_from_resource $col12 color12 #150f0f
 
