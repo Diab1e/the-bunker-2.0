@@ -325,9 +325,9 @@ bell:
   #   command:
   #     program: notify-send
   #     args: ["Hello, World!"]
-  command:
-    program: paplay
-    args: ["/home/user/.local/share/sounds/Enchanted/stereo/bell.ogg"]
+  #command:
+    #program: paplay
+    #args: ["/home/user/.local/share/sounds/Enchanted/stereo/bell.ogg"]
 
 # Background opacity
 #
