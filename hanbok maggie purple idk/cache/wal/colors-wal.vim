@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/rei/Pictures/wallpaper/ZpfA7d2W_4x.jpg"
+let background = "#151315"
+let foreground = "#e8e8e4"
+let cursor     = "#e8e8e4"
+
+" Colors
+let color0  = "#151315"
+let color1  = "#3B5DA4"
+let color2  = "#943A9C"
+let color3  = "#2CB2C9"
+let color4  = "#F19893"
+let color5  = "#DECCB7"
+let color6  = "#A8C0C6"
+let color7  = "#e8e8e4"
+let color8  = "#a2a29f"
+let color9  = "#3B5DA4"
+let color10 = "#943A9C"
+let color11 = "#2CB2C9"
+let color12 = "#F19893"
+let color13 = "#DECCB7"
+let color14 = "#A8C0C6"
+let color15 = "#e8e8e4"
