@@ -1,5 +1,5 @@
 " Special
-let wallpaper  = "/home/rei/pictures/wallpaper/2560x1440-987220-anime-manga-anime-girls-simple-background-minimalism.png"
+let wallpaper  = "/home/rei/Pictures/wallpaper/2560x1440-987220-anime-manga-anime-girls-simple-background-minimalism.png"
 let background = "#3f2728"
 let foreground = "#efe7e6"
 let cursor     = "#efe7e6"
