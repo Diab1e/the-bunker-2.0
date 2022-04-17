@@ -437,3 +437,30 @@ hints:
      mouse:
        enabled: true
        mods: Control|Shift
+# BEGIN ACE
+colors:
+  primary:
+    background: '#060911'
+    foreground: '#c4cddb'
+  cursor:
+    text:       '#060911'
+    cursor:     '#c4cddb'
+  normal:
+    black:      '#060911'
+    red:        '#A17460'
+    green:      '#345588'
+    yellow:     '#61708B'
+    blue:       '#7888A1'
+    magenta:    '#7C98C2'
+    cyan:       '#8C99AE'
+    white:      '#c4cddb'
+  bright:
+    black:      '#898f99'
+    red:        '#A17460'
+    green:      '#345588'
+    yellow:     '#61708B'
+    blue:       '#7888A1'
+    magenta:    '#7C98C2'
+    cyan:       '#8C99AE'
+    white:      '#c4cddb'
+# END ACE
