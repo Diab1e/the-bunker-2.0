@@ -1,0 +1,21 @@
+set $wallpaper /home/rei/wallpaper/rain.jpg
+
+set $background #0e090b
+set $foreground #b9b8bb
+
+set $color0 #0e090b
+set $color1 #6E2D2B
+set $color2 #4A3E43
+set $color3 #62555C
+set $color4 #962925
+set $color5 #EF322A
+set $color6 #B35850
+set $color7 #b9b8bb
+set $color8 #818082
+set $color9 #6E2D2B
+set $color10 #4A3E43
+set $color11 #62555C
+set $color12 #962925
+set $color13 #EF322A
+set $color14 #B35850
+set $color15 #b9b8bb
